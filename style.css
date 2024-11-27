@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#title {
+    font-size: 40px;
+    background-color: rgb(141, 207, 207);
+    text-align: center;
+    height: 100PX;
+    margin-bottom: 10px;
+}
+h1{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.left{
+    padding-left: 400px;
+}
+.right{
+    padding-right: 400px;
+}
+
+#tab{
+  background-color: rgb(123, 186, 228);
+ text-align: center;
+ height: 1000px;
+}
+
+.or{
+    background-color: azure;
+}
+td{
+    padding: 0px 30px 0px 30px;
+    width: 400px;
+    height: 400px;
+}
+
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+h2{
+    font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+
+}
+p{
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+}
